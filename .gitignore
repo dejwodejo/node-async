@@ -1,0 +1,4 @@
+node_modules
+autoTranslator/package-lock.json
+autoTranslator/package.json
+.env
